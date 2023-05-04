@@ -12,6 +12,7 @@ Fique a vontade, caso queira falar comigo e so ir nos contatos abaixo
 ![Twitter](https://img.shields.io/badge/leo_zappi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## ![Leo Zappi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZappiRamos&show_icons=true&theme=city_lights)
+## [![Leo Zappi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZappiRamos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧠 Linguagens Conhecidas
 
