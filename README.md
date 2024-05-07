@@ -3,7 +3,7 @@
 ![followers](https://img.shields.io/github/followers/LeonardoZappiRamos?style=for-the-badge)
 ![visitors](https://img.shields.io/github/watchers/LeonardoZappiRamos/LeonardoZappiRamos?style=for-the-badge)
 
-Meu nome e Leonardo Zappi Ramos, sou um analista de sistema de formação mas com uma paixão por programação.
+Meu nome e Leonardo Zappi Ramos, Desenvolvedor Full Stack com foco em Python.
 Fique a vontade, caso queira falar comigo e so ir nos contatos abaixo
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LeoZappi)
