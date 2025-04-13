@@ -3,8 +3,7 @@
 ![followers](https://img.shields.io/github/followers/LeonardoZappiRamos?style=for-the-badge)
 ![visitors](https://img.shields.io/github/watchers/LeonardoZappiRamos/LeonardoZappiRamos?style=for-the-badge)
 
-Meu nome e Leonardo Zappi Ramos, Desenvolvedor Full Stack com foco em Python.
-Fique a vontade, caso queira falar comigo e so ir nos contatos abaixo
+Passionate about building scalable and efficient software. With a background in BI and automation, I’m now diving into software development and architecture. I enjoy solving complex problems with clean code, solid design, and a focus on real-world impact. Let’s build something great.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LeoZappi)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-zappi-ramos-51915910b/)
